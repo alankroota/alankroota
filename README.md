@@ -1,4 +1,8 @@
-## Hi there 👋
+<div bgcolor="white">
+<center><h2 style="color: brown;">
+  I love rilakkuma.
+</h2></center>
+</div>
 
 <!--
 **alankroota/alankroota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
